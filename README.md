@@ -1,18 +1,15 @@
-## the command supported are:
-b2d - Binary to Decimal
+# Lua CLI Number & Text Converter
 
-d2b - Decimal to Binary
+A lightweight cli written in Lua for converting numbers, text, and files between binary, decimal, and hexadecimal formats.
 
-b2h - Binary to Hex
+## Supported Commands
 
-h2b - Hex to Binary
-
-d2h - Decimal to Hex
-
-h2d - Hex to Decimal
-
-t2b - Text to Binary
-
-b2t - Binary to Text
-
-fromfile : accept an additional argument either b2t or t2b
+* **`b2d`** - Binary to Decimal
+* **`d2b`** - Decimal to Binary
+* **`b2h`** - Binary to Hexadecimal
+* **`h2b`** - Hexadecimal to Binary
+* **`d2h`** - Decimal to Hexadecimal
+* **`h2d`** - Hexadecimal to Decimal
+* **`t2b`** - Text to Binary
+* **`b2t`** - Binary to Text
+* **`fromfile`** - Accepts an additional argument (`b2t` or `t2b`) to process files.
