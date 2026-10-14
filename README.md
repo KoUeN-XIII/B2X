@@ -1,4 +1,4 @@
-# Lua CLI Number & Text Converter
+# B2X
 
 A lightweight cli written in Lua for converting numbers, text, and files between binary, decimal, and hexadecimal formats.
 
